@@ -1,0 +1,19 @@
+Clock in the mirror
+
+Write a function that guesses the real time from mirror reflection of analog clock. 
+Consider hours to be between 1 <= hour < 13. So there is no 00:20, instead it is 12:20. There is no 13:20, instead it is 01:20.
+
+
+
+Examples:
+
+
+12:22 --> 11:38
+
+05:25 --> 06:35
+
+01:50 --> 10:10
+
+11:58 --> 12:02
+
+12:01 --> 11:59
